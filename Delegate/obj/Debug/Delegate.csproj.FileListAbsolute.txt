@@ -1,0 +1,7 @@
+c:\users\темирбулата\source\repos\Delegate\Delegate\bin\Debug\Delegate.exe.config
+c:\users\темирбулата\source\repos\Delegate\Delegate\bin\Debug\Delegate.exe
+c:\users\темирбулата\source\repos\Delegate\Delegate\bin\Debug\Delegate.pdb
+c:\users\темирбулата\source\repos\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+c:\users\темирбулата\source\repos\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+c:\users\темирбулата\source\repos\Delegate\Delegate\obj\Debug\Delegate.exe
+c:\users\темирбулата\source\repos\Delegate\Delegate\obj\Debug\Delegate.pdb
